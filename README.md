@@ -25,7 +25,8 @@ e.g
 3. Read and understand the requirements of the challenge.
 3. Formulate problem on your own and come up with a working solution for it.
 2. Corresponding to the challenge a directory will also be created in this repository, e.g `/Challenge_1`.
-3. Participants are expected to submit solution and everything related to the solution as a subdirectory of challenge directory. The subdirectory should be named as the gihtub username of the participant. e.g `/Challenge_1/moghya/solution.md`.
+3. Participants are expected to submit solution and everything related to the solution as a subdirectory of challenge directory.  
+The subdirectory should be named as the gihtub username of the participant. e.g `/Challenge_1/moghya/solution.md`.
 Participant can add as many files as they want to the subdirectory to explain the approach taken to solve the problem.
 4. Once participant solves the problem, participant needs to create a pull request for addition of the subdirectory to the challenge directory.
 
@@ -39,3 +40,20 @@ Participant can add as many files as they want to the subdirectory to explain th
 1. Pull request have a format to get sufficient details of participant to ensure regulation of participation of college students only.
 2. Details such as email id will be used for communication and verifcation purpose.
 3. Within 2 weeks of completion of challenge, winners will be provided with the specified prizes.
+
+# I want to participate, what is the requirement?
+1. This challege series is currently for college students only.  
+If you're enrolled for any full time course at an university/college, you're eligible to participate in this challenge series.
+2. There's NO PARTICIPATION FEES for these challenges, you just need to be able to access this repository and start participating.
+
+# I'm not a college student, how can I be part of this?
+1. This is completely non-profit initiative.
+2. A bunch of change agents want students to learn and grow, for this sole pupose these change agents are ready to devote time and money.
+3. You can be part of this as a volunteer.  
+Following are some of the tasks that volunteers can take up.
+- Challenge creation.
+- Grading of challenge.
+- Moderation of challege forum.
+- Raising funds for the challenge prizes.
+- Raising awareness about this initiative.
+To be a volunteer, please reach to us at `wcecodepals@gmail.com`.
