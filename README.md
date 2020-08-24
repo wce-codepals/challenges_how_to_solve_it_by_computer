@@ -3,7 +3,7 @@ This repository hosts multiple challenges and gives away prizes for submitting s
 
 # What is this?
 - A challenge series to encourage <b>COLLEGE STUDENTS</b> to solve problems using computers.
-- Every week a challenge will be posted here and prizes for the challenge would be declared.  
+- Every week a challenge will be posted here and prizes for the challenge would be declared.  Here's link to [Challenge_1](https://github.com/wce-codepals/challenges_how_to_solve_it_by_computer/issues/1)
 - All of the challenges would be posting some problem statement that could be solved using computer.  
 - Writing novel computer program or using existing tools is okay to deliver the solution.
 
