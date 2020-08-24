@@ -33,7 +33,7 @@ Participant can add as many files as they want to the subdirectory to explain th
 
 # How are solutions graded?
 1. Post completiton of the challenge, organisers will be judging each PR raised untill the challenge due datetime.
-2. Each PR will be provided with details comments on the solutions submitted.
+2. Each PR will be provided with detailed comments on the solutions submitted.
 3. After 48-72 hours of challenge due datetime, prize winners will be announced and contacted.
 
 # How will be the prizes delivered?
@@ -47,9 +47,9 @@ If you're enrolled for any full time course at an university/college, you're eli
 2. There's NO PARTICIPATION FEES for these challenges, you just need to be able to access this repository and start participating.
 
 # I'm not a college student, how can I be part of this?
-1. This is completely non-profit initiative.
-2. A bunch of change agents want students to learn and grow, for this sole pupose these change agents are ready to devote time and money.
-3. You can be part of this as a volunteer.  
+1. This is a completely non-profit initiative.
+2. A bunch of change agents want students to learn and grow; for this sole purpose the change agents are ready to devote time and money.
+3. You can also be part of this as a volunteer.  
 Following are some of the tasks that volunteers can take up.
 - Challenge creation.
 - Grading of solutions submitted.
