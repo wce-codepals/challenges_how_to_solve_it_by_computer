@@ -52,7 +52,7 @@ If you're enrolled for any full time course at an university/college, you're eli
 3. You can be part of this as a volunteer.  
 Following are some of the tasks that volunteers can take up.
 - Challenge creation.
-- Grading of challenge.
+- Grading of solutions submitted.
 - Moderation of challege forum.
 - Raising funds for the challenge prizes.
 - Raising awareness about this initiative.
