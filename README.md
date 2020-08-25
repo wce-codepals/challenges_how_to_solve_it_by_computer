@@ -49,11 +49,11 @@ If you're enrolled for any full-time course at a university/college, you're elig
 # I'm not a college student, how can I be part of this?
 1. This is a completely non-profit initiative.
 2. A bunch of change agents want students to learn and grow; for this sole purpose, the change agents are ready to devote time and money.
-3. You can also be part of this as a volunteer.  
-The following are some of the tasks that volunteers can take up.
+3. You can be the part of this initiative as a volunteer. 
+4. The following are some of the tasks that volunteers can take up:
 - Challenge creation.
 - Grading of solutions submitted.
 - Moderation of challenge forum.
 - Raising funds for the challenge prizes.
 - Raising awareness about this initiative.
-To be a volunteer, please reach us at `wcecodepals@gmail.com`.
+5. **To be a volunteer, please reach us at `wcecodepals@gmail.com`.**
